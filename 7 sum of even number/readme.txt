@@ -1,0 +1,1 @@
+Take input of start range and end range and then calculate the total of all even number between them 
